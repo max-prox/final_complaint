@@ -1,0 +1,976 @@
+text,label
+All webhooks timing out causing third-party integrations to fail,Critical
+Character counter in text area shows count slightly late,Medium
+Bug report: notification emails landing in spam for all major providers,High
+Sidebar menu collapses when switching tabs unexpectedly Happening since yesterday.,Medium
+Map widget fails to load in all browsers using older hardware,High
+Issue: Tab key order in the checkout form skips the CVV field,Medium
+Bug report: minor typo in the welcome email: 'wellcome' instead of 'welcome',Low
+Currency conversion rate shown differs from rate actually applied,Medium
+Audio/video calls dropping every 5 minutes due to timeout bug,High
+Progress bar in file upload doesn't show the percentage as a number,Low
+Payment method removal option missing from account settings,High
+Not a huge deal but the success message colors are confusing to me,Low
+Honestly disappointed in the product — features I rely on keep breaking,Medium
+COPY TO CLIPBOARD BUTTON GIVES NO VISUAL FEEDBACK AFTER ACTION,Medium
+Two users editing same record simultaneously causing data loss,High
+The 'clear all' button in filters doesn't reset date range field,Medium
+Password strength meter accepting weak passwords as strong,High
+Would be helpful to have a team directory with photos in the HR portal,Low
+Sorting and filtering in data table producing wrong results,High
+Sidebar menu collapses when switching tabs unexpectedly,Medium
+Data table doesn't remember pagination setting on re-visit,Medium
+Would appreciate more detailed product descriptions on the website,Low
+Mass refund failure — our entire e-commerce platform stopped processing returns,Critical
+API rate limit hitting even below documented threshold,High
+Zero-day exploit being actively exploited in our infrastructure,Critical
+Download button triggers for empty report without a warning,Medium
+Would appreciate a plain-English summary of what data you collect and why,Low
+Font size in the footer could be slightly larger for readability,Low
+Onboarding checklist disappears too quickly after completion,Low
+"Right to erasure request submitted twice, data still visible in my profile",High
+Terms of service changed without proper advance notice as legally required,High
+Integration with Slack broke after our last release,High
+Transition animation when opening modal feels a bit abrupt,Low
+"Cannot export data to CSV, button does nothing when clicked",High
+Would like the option to export reports in Excel format too,Medium
+Back button does not preserve scroll position in list views,Medium
+Browser tab title not updating when switching between views,Medium
+My order never arrived and tracking shows it was delivered two days ago,High
+Customers receiving incorrect invoices with wrong amounts,High
+Expense claim rejected erroneously — policy clearly covers this category,High
+notifications are late again lol this keeps happening,Medium
+My appointment was cancelled with less than an hour's notice via text message,High
+Modal close button is placed on opposite sides in different dialogs,Low
+Cookie consent banner obscures half the screen on mobile devices,Low
+Test results were sent to the wrong patient — serious data privacy concern,High
+Cookie settings reset to default every time I visit — preference not being saved,Medium
+"License server expired, all enterprise users locked out now",Critical
+Terms of service link in the footer is broken and leads to a 404 page,Low
+Image previews take a few extra seconds to generate thumbnails,Medium
+The app could use a 'what's new' section to highlight updates,Low
+Team member invitation emails being rejected by mail server,High
+Currency symbol missing from some input fields in settings,Medium
+Solid tool but the auto-save feature seems to miss edits occasionally,Medium
+"Entire microservices cluster is unresponsive, customers locked out",Critical
+File upload fails for anything larger than 2MB unexpectedly,High
+Email verification link expires immediately after being sent,High
+Would like better tracking updates — the current system only shows two statuses,Medium
+Collapsible sections stay open on page reload unexpectedly,Medium
+My contract amendment was not updated in the HR system after four weeks,High
+The product photos could be better — hard to judge actual size,Low
+Some tooltips trigger on tap instead of hover on touch screens Please fix ASAP.,Medium
+The 'clear all' button in filters doesn't reset date range field,Medium
+Return process is unnecessarily complicated — too many steps to complete,Medium
+"Redis cache server down, all DB queries timing out under load",Critical
+"Data loss occurred after the server migration, backups missing",Critical
+Numeric input allows typing letters which is confusing,Medium
+All file uploads corrupted after storage bucket misconfiguration,Critical
+CURRENCY SYMBOL MISSING FROM SOME INPUT FIELDS IN SETTINGS,Medium
+Some tooltip messages are written in different capitalization styles,Low
+Elasticsearch index corruption wiping out 6 months of data,Critical
+Breadcrumb trail shows wrong parent category in some products,Medium
+Complete system outage affecting all users right now,Critical
+All webhooks timing out causing third-party integrations to fail Happening since yesterday.,Critical
+System has been down for 3 hours and customers cannot access anything Please fix ASAP.,Critical
+Like the interface but the mobile version is noticeably laggier than before,Medium
+Issue: Copy-paste into the editor sometimes duplicates content,Medium
+Onboarding tour overlay positions incorrectly on 4K displays,Medium
+Copy-paste into the editor sometimes duplicates content,Medium
+Issue: Search bar placeholder text disappears before user starts typing,Medium
+Search takes about 5 seconds which is too slow for daily use Please fix ASAP.,Medium
+Holiday calendar doesn't account for regional bank holidays automatically,Medium
+Interest was calculated incorrectly on my savings account for three months,High
+Cancel button label could say 'Go Back' for better user clarity This is very frustrating.,Low
+Appointment reminder sent to old phone number despite updating my details,High
+Help center link in footer points to an outdated article,Low
+The color of the success message is hard to distinguish from warning,Low
+Root server failure causing complete service unavailability,Critical
+Loan application submitted two weeks ago with no status update at all,High
+API rate limit hitting even below documented threshold,High
+I enjoy using the tool but the export is a bit flaky since last update,Medium
+Empty table placeholder text is generic — could be more helpful,Low
+Side panel z-index overlaps notification toast on small screens Need resolution today.,Medium
+Mobile onboarding screen is missing the skip button for returning users,Low
+Two users editing same record simultaneously causing data loss,High
+"Bug report: customer pii potentially exposed in server logs, gdpr risk",Critical
+Minor frustration — the tab order in the form skips fields sometimes,Low
+Localization missing for a few labels in the French locale Please fix ASAP.,Medium
+Online banking app is slow to load during busy periods — minor but consistent,Medium
+The color of the success message is hard to distinguish from warning Need resolution today.,Low
+Your privacy policy is contradictory and unclear about data retention periods,Medium
+Waited three hours past my scheduled appointment with no update or apology,High
+User data syncing incorrectly between mobile and web apps,High
+Would like the option to export reports in Excel format too,Medium
+Bug report: mobile push notification service completely stopped delivering,Critical
+Bug report: critical memory leak causing server to crash every 10 minutes,Critical
+Wish there was a wishlist feature to save items for later,Low
+Account lockout after one failed login attempt instead of five,High
+Onboarding portal is confusing — new starters keep asking for walkthroughs,Medium
+Children's personal data was collected without verifiable parental consent,Critical
+This negligence is criminal — your firewall update blocked all our client traffic,Critical
+"Webhook processing service crashed, missing hundreds of events",Critical
+File upload fails for anything larger than 2MB unexpectedly,High
+All backups found corrupt during emergency recovery attempt,Critical
+Usually works well but the dashboard is loading slowly since the update,Medium
+"Hover animation on cards is inconsistent — some scale, some don't",Low
+"app is kinda slow lately, not urgent but pretty annoying ngl",Medium
+Critical: appointment system double-booked an operating theatre for same time slot,Critical
+Online patient portal is slow and frequently times out mid-session,Medium
+Entire dev and staging gone; accidental terraform destroy,Critical
+Inactive tab in dashboard still polls the server unnecessarily,Medium
+I recommend you to everyone but this double charge has really shaken my trust,High
+Product quality was noticeably lower than the photos on the website,Medium
+Big fan of your service but my data sync has been broken for a full week,High
+Mobile app losing internet connection randomly mid-session,High
+Pension contribution system failed — contributions not processed for quarter,Critical
+Good experience overall but the calendar widget has been misbehaving lately,Medium
+The data export provided was incomplete — not all my data was included,Medium
+System has been down for 3 hours and customers cannot access anything,Critical
+Would like option to set a default view in dashboard on login,Low
+My salary was incorrect this month — short by a significant amount,High
+"You retained my data after my deletion request, violating your own policy",High
+Emergency patch required: known exploit in current library version,Critical
+Good platform overall but search results have been oddly slow this week,Medium
+"Hi team, order was placed but confirmation email never arrived",High
+Profile page header background is a bit plain and could be improved,Low
+VPN gateway failure locking out all remote engineers in an incident,Critical
+Transaction history showing incorrect timestamps for records,High
+Leave application approved in system but not reflected in team calendar,High
+Feedback: Browser tab title not updating when switching between views,Medium
+ICONS IN THE NAVIGATION BAR FEEL SLIGHTLY TOO SMALL ON DESKTOP,Low
+Entire dev and staging gone; accidental terraform destroy,Critical
+Table header doesn't visually indicate which column is sorted,Low
+Delivery was three days late with no proactive communication from the team,Medium
+Breadcrumb trail shows wrong parent category in some products,Medium
+"License server expired, all enterprise users locked out now",Critical
+Social share button uses a default image instead of content image,Low
+Page title in browser tab is too long and gets cut off awkwardly,Low
+Favicon is missing from the admin panel tab,Low
+Org chart in the system is several months out of date,Low
+Profile page header background is a bit plain and could be improved,Low
+Terms of service link opens in the same tab instead of new tab,Low
+Payment method removal option missing from account settings This is very frustrating.,High
+Dashboard analytics numbers do not match the actual database,High
+The email notifications are quite delayed — usually 10 minutes,Medium
+Utterly disappointed — I waited 2 hours on hold and nobody answered,High
+All backups found corrupt during emergency recovery attempt,Critical
+Printing module generating garbled text on all PDF exports This is very frustrating.,High
+App crashes every time I try to open the checkout page,High
+Issue: Font size in the footer could be slightly larger for readability,Low
+"Production environment deleted by mistake, need immediate rollback",Critical
+Received another customer's statement containing their full financial details,High
+Markdown preview in editor not rendering bullet lists correctly,Medium
+The password field toggle icon is barely visible on white background,Low
+Icons in dropdown menu items are not vertically centered,Low
+"SOS — system is totally cooked, cant access ANYTHING, clients going mad",Critical
+Import/export jobs silently failing with no error messages,High
+"Customer PII potentially exposed in server logs, GDPR risk",Critical
+Bulk import failed midway and data is in inconsistent state,High
+My account was handed to a debt collector in error — causing financial damage,High
+Character counter in text area shows count slightly late,Medium
+Dropdown arrow icon misaligned by a few pixels in Firefox,Low
+Search results returning completely wrong data to users,High
+Feedback: Email verification link expires immediately after being sent,High
+Password strength meter accepting weak passwords as strong,High
+"Not happy with the dark mode implementation, colors are really hard to read",Medium
+Tracking number shows package in a different city — it's been lost,High
+Appointment confirmation emails sometimes arrive after the appointment date,Medium
+The loading message says 'Loading...' every time — could vary it,Low
+Critical memory leak causing server to crash every 10 minutes,Critical
+VPN gateway failure locking out all remote engineers in an incident,Critical
+Mobile keyboard covers the input field on the login page,Medium
+"Really good product but notifications have been delayed lately, a bit annoying",Medium
+"SSL certificate expired, no one can access the site securely",Critical
+I am absolutely furious that my payment was charged twice this month,High
+"SMS OTP service down, users cannot complete 2FA login",Critical
+Timesheet system sends duplicate reminder emails every day — quite irritating,Medium
+My return was accepted but I haven't received the refund in three weeks,High
+Preferred doctor option in booking ignored — different doctor assigned,Medium
+Love the app overall but it crashes every time I reach the payment screen,High
+Language preference in settings doesn't persist across sessions,Low
+"Hi team, onboarding tour overlay positions incorrectly on 4k displays",Medium
+Side panel z-index overlaps notification toast on small screens,Medium
+Critical race condition causing data corruption in transactions,Critical
+The 'Learn more' link in empty state has no destination,Low
+Could benefit from a pinned note or sticky widget on dashboard This is very frustrating.,Low
+Internal job board formatting is inconsistent across different postings,Low
+"I've had it with this service, my subscription renewed without any warning",High
+Integration with Slack broke after our last release,High
+OAuth redirect URL mismatch error blocking all social logins,High
+Long email addresses get truncated without an ellipsis or tooltip,Medium
+the thing where you filter by date is messed up again fyi,Medium
+the app keeps crashing every time i try to pay omg so annoying,High
+Feedback: Some tooltip messages are written in different capitalization styles,Low
+Your team is usually amazing but this billing error is costing me real money,High
+Loading spinner keeps showing after data has already loaded,Medium
+Follow-up call promised but never received after my procedure,Medium
+Lazy-loading images sometimes flash before fully rendering,Medium
+Would be helpful to see pending transactions alongside posted ones,Low
+All email notifications silently failing for past 48 hours,Critical
+Two-step verification process is cumbersome and slower than competitors,Medium
+Medical device integration failed — patient monitoring data is not being recorded,Critical
+Your cookie consent banner doesn't respect my preferences — tracking continues,High
+Minor display glitch on the sidebar when resizing window Need resolution today.,Medium
+Privacy policy is very long and written in complicated legal language,Low
+You processed biometric data without a lawful basis — this is a legal violation,Critical
+Loading skeleton shapes don't match the actual content layout,Low
+Time zone displayed in notifications doesn't match user profile,Medium
+Two-factor authentication codes are not being received,High
+"Live trading engine down during market hours, clients furious This is very frustrating.",Critical
+"charged me twice wtf, need a refund immediately please",High
+Breadcrumbs are missing from several inner pages for navigation,Low
+Graph rendering completely wrong after chart library upgrade Happening since yesterday.,High
+Core banking system crashed — no transactions being processed at any branch,Critical
+HR system breached — all employee personal records including salaries exposed,Critical
+Root server failure causing complete service unavailability,Critical
+Minor typo in the welcome email: 'Wellcome' instead of 'Welcome',Low
+Page title in browser tab is too long and gets cut off awkwardly,Low
+Webhook signature verification failing for valid payloads,High
+The size guide on the website was inaccurate — product doesn't fit as expected,Medium
+Emergency: live payment system is processing duplicate charges,Critical
+Submit button label says 'Save' on one page and 'Update' on another Happening since yesterday.,Low
+Background check system down — unable to onboard any new hires this month,Critical
+Staff member was dismissive and rude during a sensitive consultation,High
+Really like the platform but orders have been failing silently for two days,High
+Dark mode colors are inconsistent across different sections,Medium
+Mobile keyboard covers the input field on the login page Please fix ASAP.,Medium
+App unable to resume from background on older Android phones,High
+Icons in the navigation bar feel slightly too small on desktop,Low
+Bank statement shows transactions I did not make — suspected fraud,High
+Empty state illustration missing on the notifications page,Medium
+Loyalty points not credited after purchase as described in the programme,Medium
+"Hi team, application firewall blocking all legitimate traffic since upgrade",Critical
+"Payment gateway down, losing thousands of dollars every minute",Critical
+Elasticsearch index corruption wiping out 6 months of data,Critical
+Statement download button is quite hard to find in the menu hierarchy,Low
+All file uploads corrupted after storage bucket misconfiguration Need resolution today.,Critical
+The password field toggle icon is barely visible on white background,Low
+Trading platform is offline during market hours — we are losing money every second,Critical
+CUSTOM 404 PAGE COULD HAVE A LINK BACK TO THE HOME OR SEARCH PAGE,Low
+Would love an option to change the app's accent color,Low
+"Live trading engine down during market hours, clients furious",Critical
+Empty state illustration missing on the notifications page,Medium
+Dashboard analytics numbers do not match the actual database,High
+Mobile app losing internet connection randomly mid-session,High
+Error messages disappear too quickly before user can read them,Medium
+"Real-time dashboard showing zero data, streaming pipeline dead",Critical
+Health checks passing but app serving stale cached responses,Critical
+This is absolutely unacceptable — the entire checkout system has been offline for 6 hours,Critical
+"This is outrageous, my entire account has been locked and I can't reach anyone",Critical
+Would be helpful to have a confirmation step before deleting tags,Low
+Packaging was excessive and environmentally wasteful for a small item,Medium
+Submit button label says 'Save' on one page and 'Update' on another,Low
+App version number not visible anywhere in the settings,Low
+Would be nice to have a gift message option at checkout,Low
+"Our SLA is breached, system has been down beyond the limit",Critical
+Great product but the account login has been completely broken since yesterday,High
+Bug report: tooltip appears on the wrong side near page edges,Low
+"A little frustrated with the tooltip positioning, it's been off for weeks",Low
+Your system logged and transmitted patient health data to an analytics platform,Critical
+Unable to delete account — button gives internal server error,High
+Time zone displayed in notifications doesn't match user profile,Medium
+Beyond annoyed — your app keeps crashing every time I try to make a payment,High
+I'm pretty frustrated — the app has been slow for days and nothing has changed,Medium
+Transition animation when opening modal feels a bit abrupt,Low
+"Hi team, race condition in checkout causing orders to be placed twice",Critical
+"yo the payment thing is busted again, customers cant check out",High
+Dropzone for file upload not highlighting on drag-over event,Medium
+"lol jk its not funny, logged out and cant get back in, deadline in 1hr",High
+Your product is top tier but the mobile app crashes on every single checkout,High
+Payment failed and money was deducted from my account,High
+"Cronjobs not executing since last night, data pipeline broken",Critical
+Back button does not preserve scroll position in list views,Medium
+"cant login at all, tried everything, this is really bad for me rn",High
+Bug report: dropzone for file upload not highlighting on drag-over event,Medium
+"nobody is responding to my tickets and im losing it, please help asap",High
+Feedback form submit button moves down when error messages appear,Low
+Patient records system is completely down — clinic cannot access any records,Critical
+Calendar events not syncing with Google Calendar integration,High
+Fed up — my refund request has been ignored for two weeks now,High
+Custom 404 page could have a link back to the home or search page,Low
+Critical race condition causing data corruption in transactions,Critical
+Accessibility statement says WCAG 2.1 AA but the site clearly doesn't meet it,Medium
+Team member invitation emails being rejected by mail server,High
+Delivery driver left a perishable order outside in summer heat for hours,High
+This is the worst experience I've ever had — I can't log in to my account at all,High
+Prescription management software crashed — pharmacists cannot verify medications,Critical
+Would be nice if the table had a compact/comfortable density option This is very frustrating.,Low
+"Automated wire transfers failed overnight — funds in limbo, regulators notified",Critical
+Emergency patch required: known exploit in current library version,Critical
+Gift wrapping I paid for was not applied to the order,Medium
+User profile picture not updating after upload completes,High
+Table header doesn't visually indicate which column is sorted Need resolution today.,Low
+Parking is limited — could do with better signage for the overflow area,Low
+Our entire platform is unreachable since the last deployment,Critical
+Reports scheduled for daily email delivery stopped working,High
+Standing order did not execute on the scheduled date causing missed payment,High
+Some tooltips trigger on tap instead of hover on touch screens,Medium
+Our data was included in your security breach — we need immediate incident response,Critical
+Product images not loading on the listing pages intermittently,High
+I need to cancel this order urgently but the cancel button does nothing,High
+"Fraud detection flagging all legitimate transactions, blocking all payments",Critical
+Payment processor returning fraud flags on all transactions,Critical
+Cannot find an opt-out for behavioural tracking as required by regulations,Medium
+"App shows outdated data after refresh, caching seems broken Need resolution today.",High
+Mobile scroll sometimes triggers swipe-back navigation by mistake,Medium
+I wish the team would respond to small feedback — icons feel dated,Low
+Took 10 days to receive a response to my delivery enquiry email,Medium
+"Feedback: DISASTER: entire AWS region unavailable, failover not triggering",Critical
+Direct debit taken on wrong date causing an overdraft fee unfairly,High
+Getting impatient with the slow response times on the dashboard,Medium
+Order was placed but confirmation email never arrived,High
+SYSTEM ASSIGNING INCORRECT TAX RATES IN EUROPEAN TRANSACTIONS,High
+Feedback form submit button moves down when error messages appear,Low
+Loading spinner keeps showing after data has already loaded,Medium
+Magazine selection in waiting room is a bit outdated,Low
+"Hover animation on cards is inconsistent — some scale, some don't",Low
+"Entire microservices cluster is unresponsive, customers locked out",Critical
+Copyright year in footer still shows last year,Low
+"same issue as before btw, still not fixed from last week",Medium
+Calendar events not syncing with Google Calendar integration,High
+Cannot log in to my account after the password reset,High
+I received someone else's order containing their personal prescription items,High
+Promotional discount didn't apply at checkout despite meeting the conditions,Medium
+Your terms changed and the notification email was sent to a deprecated address,Medium
+"Payment gateway down, losing thousands of dollars every minute",Critical
+Customers receiving incorrect invoices with wrong amounts,High
+THIS IS BROKEN AND I NEED IT FIXED ASAP I HAVE A DEMO TOMORROW,High
+Collapsible sections stay open on page reload unexpectedly,Medium
+I unsubscribed from all marketing six months ago and still receive daily emails,High
+Spacing between form fields seems a bit too wide on mobile,Low
+New joiner cannot access any systems after three days — no IT access,High
+I made a subject access request 40 days ago with no response — legal deadline missed,High
+Generally excellent support but this issue has now escalated to affecting clients,High
+Page takes a moment to respond after clicking action buttons Please fix ASAP.,Medium
+Drag and drop in kanban board stopped working on Safari,High
+Help center link in footer points to an outdated article,Low
+Really annoyed that the calendar integration keeps dropping events,Medium
+Printing module generating garbled text on all PDF exports,High
+My subscription was charged twice this billing cycle,High
+"Disgusting service, your platform went down during our live product launch",Critical
+"DISASTER: entire AWS region unavailable, failover not triggering",Critical
+Livid. You deleted three years of our customer records. Explain this NOW.,Critical
+My medical records show incorrect information that could affect future care,High
+Role-based permissions are broken after the latest deployment,High
+my stuff didnt arrive and its been like 2 weeks already??,High
+heads up the search is giving weird results since the update,Medium
+Download button triggers for empty report without a warning,Medium
+Production database crashed and all services are offline,Critical
+Favicon is missing from the admin panel tab,Low
+Hover state on secondary buttons has very low contrast,Medium
+"its all broken cant get in, all staff locked out, boss is furious pls help",Critical
+Print stylesheet missing causing poor formatting when printing,Medium
+URGENT: SQL injection vulnerability exposed in login form,Critical
+Order placed a week ago is still processing with no estimated delivery,High
+Would love it if someone looked at the spacing issue on the settings page,Low
+"Hi team, complete system outage affecting all users right now",Critical
+Feedback: Would be nice to have a dark mode option for the dashboard,Low
+Map widget fails to load in all browsers using older hardware,High
+I am absolutely furious — your system wiped all my company data overnight,Critical
+All ATMs in our network are offline — customers cannot withdraw cash,Critical
+Markdown preview in editor not rendering bullet lists correctly Happening since yesterday.,Medium
+Transaction categories in the app are often incorrectly assigned,Medium
+Zero-day exploit being actively exploited in our infrastructure Need resolution today.,Critical
+Would love keyboard shortcuts for common actions in the editor,Low
+Tooltip appears on the wrong side near page edges,Low
+App is slow sometimes when loading the reports section,Medium
+The help text inside empty form fields is hard to read,Medium
+Issue: Production database crashed and all services are offline,Critical
+Undo action in the editor reverts two steps instead of one,Medium
+Empty table placeholder text is generic — could be more helpful,Low
+Would be nice to have a dark mode option for the dashboard,Low
+Subscription upgrade not reflecting even after successful payment,High
+minor thing but the logo looks a bit pixelated on retina screens,Low
+Issue: The UI button alignment looks slightly off in the settings page,Low
+System breach: unauthorized admin access detected in logs This is very frustrating.,Critical
+Credit card data stored in plaintext discovered during audit — immediate action needed,Critical
+Inactive tab in dashboard still polls the server unnecessarily,Medium
+Bedside manner of the receptionist could definitely be improved,Medium
+Graph labels overlap when viewing with more than 10 data points,Medium
+"Our SLA is breached, system has been down beyond the limit",Critical
+Insurance claim was rejected incorrectly — I have documentation proving coverage,High
+Wrong item delivered and I need the correct one before my event tomorrow,High
+Order confirmation email formatting looks a bit outdated,Low
+WHY IS THIS SO SLOW every single day same issue smh,Medium
+Waiting room décor is quite dated and could use a refresh,Low
+Would appreciate more detailed merchant information in transaction history,Low
+Employee handbook PDF is outdated and references old company policies,Low
+"Kubernetes pods crashing in a loop, auto-healing not working Need resolution today.",Critical
+"Authentication service offline, no one can log in to the platform",Critical
+You used my photos in marketing materials without my permission or compensation,High
+Graph labels overlap when viewing with more than 10 data points,Medium
+All email notifications silently failing for past 48 hours,Critical
+Default date range filter resets every time page refreshes,Medium
+Phone hold times are excessive — averaged over 25 minutes every call,Medium
+Critical security breach detected in our payment gateway,Critical
+Waiting room was consistently overcrowded with very long waits each time,Medium
+The mobile banking app could use a spending breakdown chart feature,Low
+super tiny thing but the button colors look a bit off to me,Low
+Image previews take a few extra seconds to generate thumbnails,Medium
+"Database replication failed, master and slave out of sync",Critical
+Lazy-loading images sometimes flash before fully rendering,Medium
+Been a loyal customer for years but I cannot access my account at all right now,High
+URGENT: SQL injection vulnerability exposed in login form,Critical
+Font rendering differs slightly between Chrome and Firefox,Medium
+Load balancer failure causing 100% packet loss to backend,Critical
+"All API endpoints returning 500 errors, nothing is working",Critical
+The loading message says 'Loading...' every time — could vary it,Low
+User data syncing incorrectly between mobile and web apps,High
+Issue: Scrolling in dropdown menus is not smooth on mobile devices,Medium
+Spending analytics not updating until the following day — should be real-time,Medium
+Issue: Would appreciate a 'Remember me' checkbox on the login page,Low
+Feedback: Social login buttons could benefit from clearer provider labels,Low
+"All API endpoints returning 500 errors, nothing is working",Critical
+A bit annoyed that notifications are consistently 20 minutes late,Medium
+omg the whole site just died?? all our customers are getting errors,Critical
+"wtf just happened, app completely dead, losing sales every minute rn",Critical
+Training completion records taking over a week to sync to employee profiles,Medium
+My subscription box has been wrong for three consecutive months,High
+Slightly annoyed — the button labels changed again with no explanation,Low
+Minor display glitch on the sidebar when resizing window,Medium
+Our entire platform is unreachable since the last deployment,Critical
+Emergency: live payment system is processing duplicate charges Happening since yesterday.,Critical
+Would be nice if the table had a compact/comfortable density option,Low
+"Disk full on production server, writes failing system-wide",Critical
+ICONS IN DROPDOWN MENU ITEMS ARE NOT VERTICALLY CENTERED,Low
+Two-factor authentication codes are not being received,High
+So angry right now — billing charged me for a plan I cancelled months ago,High
+Modal close button is placed on opposite sides in different dialogs,Low
+"Mortgage payment was posted to wrong account, affecting my credit score",High
+Mobile onboarding screen is missing the skip button for returning users This is very frustrating.,Low
+System assigning incorrect tax rates in European transactions,High
+Tooltip text is cut off when hovered near the screen edge,Medium
+Long email addresses get truncated without an ellipsis or tooltip,Medium
+Default date range filter resets every time page refreshes,Medium
+Nothing urgent but the pagination is a little inconsistent across pages,Low
+You shared my personal data with third parties without my consent — GDPR breach,Critical
+"Server is completely down, urgent fix needed immediately",Critical
+Completely outraged — our automated payroll failed and staff haven't been paid,Critical
+Would love keyboard shortcuts for common actions in the editor,Low
+idk if anyone else noticed but the tab labels are a bit confusing,Low
+Disappointed that the mobile app is still lagging after last week's patch,Medium
+Mildly frustrated — the search results have been off since the last update,Medium
+"Express delivery paid for, standard delivery received, no explanation given",High
+EVERYTHING IS DOWN!! nothing works at all help us NOW,Critical
+Graph rendering completely wrong after chart library upgrade,High
+Bulk import failed midway and data is in inconsistent state,High
+just a thought — dark mode would be amazing if you could add it,Low
+The email notifications are quite delayed — usually 10 minutes,Medium
+Bug report: date picker selecting wrong date in non-us timezone regions,High
+User profile picture not updating after upload completes,High
+"I'm so done with this platform, I can't export my data and I need it urgently",High
+"Webhook processing service crashed, missing hundreds of events",Critical
+Social share button uses a default image instead of content image,Low
+"Kubernetes pods crashing in a loop, auto-healing not working",Critical
+Webhook signature verification failing for valid payloads,High
+"Package marked delivered but was left with wrong address, now it's gone",High
+Multi-step form losing all data if browser back is pressed,High
+Data table doesn't remember pagination setting on re-visit,Medium
+App is slow sometimes when loading the reports section,Medium
+Load balancer failure causing 100% packet loss to backend,Critical
+Mildly bothered that the font in the footer is different from everywhere else,Low
+"everything just fell over after that update, nothing works, emergency!!",Critical
+help??? my account is totally messed up and i have a meeting in 20 mins,High
+Stale data shown for a moment before live data loads in,Medium
+Bug report: app freezes completely when switching between workspace tabs,High
+"Hi team, database replication failed, master and slave out of sync",Critical
+Health checks passing but app serving stale cached responses,Critical
+"Data loss occurred after the server migration, backups missing",Critical
+Search bar placeholder text disappears before user starts typing,Medium
+Tired of reporting the same bug over and over with no resolution,Medium
+"Server is completely down, urgent fix needed immediately",Critical
+Normally a 5 star experience but my account was locked out right before launch,High
+Copyright year in footer still shows last year,Low
+Transaction history showing incorrect timestamps for records,High
+All user sessions invalidated after the server crash,Critical
+The 'Learn more' link in empty state has no destination,Low
+Issue: Terms of service link opens in the same tab instead of new tab,Low
+I am HORRIFIED that my private health data was accessible to other users,Critical
+Occasional 'session about to expire' warning on active sessions,Medium
+Critical security breach detected in our payment gateway,Critical
+"All inventory data wiped after database migration, we cannot fulfill orders",Critical
+"app is totally bugged out after last night's update, cant do anything",High
+Would like option to set a default view in dashboard on login,Low
+"ngl the new UI is kinda ugly, preferred the old one tbh",Low
+Would be nice to see the total item count next to each filter label,Low
+"SMS OTP service down, users cannot complete 2FA login Need resolution today.",Critical
+Incredibly frustrated — your team cancelled my appointment without any notice,High
+Search results returning completely wrong data to users Please fix ASAP.,High
+Would be helpful to have a confirmation step before deleting tags,Low
+Breadcrumbs are missing from several inner pages for navigation,Low
+Undo action in the editor reverts two steps instead of one,Medium
+Reports scheduled for daily email delivery stopped working,High
+"Authentication service offline, no one can log in to the platform",Critical
+Bug report: import/export jobs silently failing with no error messages,High
+Client funds transferred to wrong account due to system error — urgent recall needed,Critical
+I've never been so frustrated — all staff are locked out of the system right now,Critical
+"SSL certificate expired, no one can access the site securely",Critical
+Onboarding checklist disappears too quickly after completion,Low
+System breach: unauthorized admin access detected in logs,Critical
+Nobody cares about customers anymore. My order has been wrong three times in a row.,High
+Tooltip text is cut off when hovered near the screen edge,Medium
+Would love an option to change the app's accent color,Low
+List items could use subtle alternating row colors for readability,Low
+App crashes every time I try to open the checkout page,High
+Hover state on secondary buttons has very low contrast,Medium
+PDF export is generating empty files since the last update Need resolution today.,High
+I am sick of this — third time this week I've had to reset my password,High
+App unable to resume from background on older Android phones,High
+Dark mode colors are inconsistent across different sections,Medium
+Page takes a moment to respond after clicking action buttons,Medium
+Drag and drop in kanban board stopped working on Safari This is very frustrating.,High
+Message queue overflow causing complete order processing failure Happening since yesterday.,Critical
+Progress bar in file upload doesn't show the percentage as a number This is very frustrating.,Low
+Benefits portal is slow and hard to navigate during open enrolment period,Medium
+Account lockout after one failed login attempt instead of five,High
+I'm beyond angry — your payment gateway took money from 200 of our clients,Critical
+Payment processor returning fraud flags on all transactions,Critical
+Spacing between form fields seems a bit too wide on mobile,Low
+MULTI-STEP FORM LOSING ALL DATA IF BROWSER BACK IS PRESSED,High
+Would be helpful to have WiFi in the waiting area for long waits,Low
+List items could use subtle alternating row colors for readability Happening since yesterday.,Low
+"App shows outdated data after refresh, caching seems broken",High
+API returning 403 for valid authenticated requests randomly,High
+"Disk full on production server, writes failing system-wide",Critical
+The packaging is nice but could be more eco-friendly,Low
+We received a regulator notice citing your platform for a data protection failure,Critical
+Avatar initials use wrong color in dark mode theme,Low
+Would appreciate a 'Remember me' checkbox on the login page,Low
+ROLE-BASED PERMISSIONS ARE BROKEN AFTER THE LATEST DEPLOYMENT,High
+Race condition in checkout causing orders to be placed twice,Critical
+App freezes completely when switching between workspace tabs,High
+"Redis cache server down, all DB queries timing out under load",Critical
+Push notifications delayed by 30-60 minutes consistently,High
+Search takes about 5 seconds which is too slow for daily use,Medium
+Absolutely livid that your app locked me out the day before my presentation,High
+Push notifications delayed by 30-60 minutes consistently This is very frustrating.,High
+Tab key order in the checkout form skips the CVV field,Medium
+"Hi team, the help text inside empty form fields is hard to read",Medium
+Subscription upgrade not reflecting even after successful payment,High
+Paper statements still being sent despite opting out six months ago,Medium
+Localization missing for a few labels in the French locale,Medium
+Social login buttons could benefit from clearer provider labels,Low
+"Production environment deleted by mistake, need immediate rollback",Critical
+"the font on mobile is teeny tiny fyi, hard to read",Low
+Language preference in settings doesn't persist across sessions,Low
+PDF export is generating empty files since the last update,High
+A court order requires you to preserve all data related to our account immediately,Critical
+"Our warehouse management system crashed during peak dispatch, 500 orders stuck",Critical
+Security breach in our online store — customer card data may be compromised,Critical
+Number formatting inconsistent — some show commas some don't,Medium
+Payment failed and money was deducted from my account Happening since yesterday.,High
+"Cronjobs not executing since last night, data pipeline broken",Critical
+"Issue: Real-time dashboard showing zero data, streaming pipeline dead",Critical
+Feedback: Loading skeleton shapes don't match the actual content layout,Low
+Terrible experience — I received someone else's order and need this fixed today,High
+Button group has inconsistent border radius across the app,Low
+OAuth redirect URL mismatch error blocking all social logins Happening since yesterday.,High
+Date picker selecting wrong date in non-US timezone regions,High
+Prescription was filled with wrong dosage — I only noticed at home,High
+Would be nice to see the total item count next to each filter label,Low
+Package arrived completely destroyed — contents are unusable,High
+Product images not loading on the listing pages intermittently,High
+"This is ridiculous, I've sent five support tickets and got zero response",High
+Online appointment booking system is confusing and hard to navigate,Medium
+Foreign transaction declined despite sufficient funds and travel notification,High
+its broken again lol nothing ever works here tbh,Medium
+Critical: payment processor is double-charging every customer at checkout,Critical
+Our CDN provider went down taking all static assets with it,Critical
+Payroll system crashed — 500 employees have not received their salaries,Critical
+Partial order delivered — half the items are missing and no communication,High
+"Referral letter never sent to specialist, I've been waiting two months",High
+Numeric input allows typing letters which is confusing Need resolution today.,Medium
+"Emergency: lab results system offline, cannot retrieve urgent test results",Critical
+Received a counterfeit product — this is a serious issue requiring escalation,High
+Audio/video calls dropping every 5 minutes due to timeout bug Please fix ASAP.,High
+Feedback: App version number not visible anywhere in the settings,Low
+Dropdown arrow icon misaligned by a few pixels in Firefox,Low
+Print stylesheet missing causing poor formatting when printing,Medium
+Sorting and filtering in data table producing wrong results Need resolution today.,High
+Cannot log in to my account after the password reset,High
+Feedback: Font rendering differs slightly between Chrome and Firefox,Medium
+This is getting old — same loading issue appears every Monday morning,Medium
+The UI button alignment looks slightly off in the settings page,Low
+Could benefit from a pinned note or sticky widget on dashboard,Low
+just letting you know the charts look totally off on my screen,Medium
+Mobile scroll sometimes triggers swipe-back navigation by mistake,Medium
+My subscription was charged twice this billing cycle,High
+"Hi team, unable to delete account — button gives internal server error",High
+"Cannot export data to CSV, button does nothing when clicked Happening since yesterday.",High
+Stale data shown for a moment before live data loads in,Medium
+just fyi the export button doesnt do anything rn,Medium
+Number formatting inconsistent — some show commas some don't,Medium
+Billed for a service I did not receive during my last visit,High
+Notification emails landing in spam for all major providers,High
+Investment portfolio showing incorrect balances after the system maintenance,High
+Performance review data was lost after system migration — months of records gone,High
+Would appreciate a text reminder option instead of just email,Low
+Scrolling in dropdown menus is not smooth on mobile devices,Medium
+I hate how this always happens — the sync fails right when I need to share files,High
+Cancel button label could say 'Go Back' for better user clarity,Low
+Autocomplete dropdown covers action buttons making them unusable,High
+Button group has inconsistent border radius across the app,Low
+Copy to clipboard button gives no visual feedback after action,Medium
+Application firewall blocking all legitimate traffic since upgrade,Critical
+All user sessions invalidated after the server crash,Critical
+Message queue overflow causing complete order processing failure,Critical
+You charged my card but I never received a confirmation email or the product,High
+Error messages disappear too quickly before user can read them,Medium
+Mobile push notification service completely stopped delivering,Critical
+The app could use a 'what's new' section to highlight updates Happening since yesterday.,Low
+Avatar initials use wrong color in dark mode theme,Low
+Autocomplete dropdown covers action buttons making them unusable,High
+Our CDN provider went down taking all static assets with it,Critical
+API RETURNING 403 FOR VALID AUTHENTICATED REQUESTS RANDOMLY,High
+Occasional 'session about to expire' warning on active sessions This is very frustrating.,Medium
+My account got hacked and all money is gone,Critical
+Unauthorized transaction detected in my bank,Critical
+Payment deducted twice but no order placed,Critical
+You leaked my personal data,Critical
+Fraud transaction happened from your app,Critical
+My account shows balance zero suddenly,Critical
+Refund not received after deduction,Critical
+Someone accessed my account without permission,Critical
+Money debited but service not delivered,Critical
+Data breach detected in your system,Critical
+App is not opening at all,High
+Website crashes during checkout,High
+Order marked delivered but not received,High
+Payment keeps failing repeatedly,High
+App freezes during important tasks,High
+Login not working since morning,High
+System error blocking my work,High
+Unable to access account dashboard,High
+Checkout page not loading,High
+App stuck on loading screen,High
+Delivery was late by 2 days,Medium
+Staff was rude during visit,Medium
+App is slow and lagging,Medium
+Delay in response from support team,Medium
+Order tracking not updating properly,Medium
+Notifications are delayed,Medium
+App takes too long to load,Medium
+Service quality is inconsistent,Medium
+Frequent minor glitches observed,Medium
+Experience is average but slow,Medium
+UI looks outdated,Low
+Add dark mode feature,Low
+Improve app design,Low
+Navigation can be better,Low
+Minor alignment issue in buttons,Low
+Font size too small,Low
+Colors are not appealing,Low
+Need better animations,Low
+UI could be cleaner,Low
+Improve user experience,Low
+Everything was fine but now nothing works,High
+Love the app but payment fails sometimes,High
+Not a big issue but logout happens often,Medium
+Why does this app even exist if nothing works,High
+My data seems missing after update,Critical
+It's okay but delivery delays are frequent,Medium
+Refund pending for weeks,High
+UI is nice but buttons not responding,Medium
+Support is slow but helpful,Medium
+Service is good but app crashes,High
+Charged twice and support not responding,Critical
+App usable but fails during payment,High
+Delivery boy left package at wrong place,Medium
+App logs me out randomly,Medium
+Everything broken after update,High
+Slow performance but manageable,Medium
+Payment declined multiple times,High
+System shows error again and again,High
+Unable to reset password,High
+Account locked without reason,High
+Minor bug in settings page,Low
+Small UI glitch observed,Low
+Feature request for better search,Low
+Improve onboarding process,Low
+Add more themes,Low
+Icons look outdated,Low
+Spacing issue in layout,Low
+Scrollbar not smooth,Low
+Need customization options,Low
+Improve accessibility features,Low
+I am very frustrated nothing works properly,High
+App crashes only sometimes but annoying,Medium
+System slow but usable,Medium
+Payment issue but resolved later,Medium
+Service good but occasional bugs,Medium
+Experience okay but needs improvement,Low
+Support team delayed response,Medium
+Order delayed but delivered,Medium
+App glitch but fixed after restart,Low
+Not satisfied with performance,Medium
+Account compromised and data stolen,Critical
+Suspicious login activity detected,Critical
+Unauthorized access to profile,Critical
+Sensitive info leaked,Critical
+Payment done but not reflected,Critical
+Duplicate transaction issue,Critical
+Refund denied without reason,High
+Billing issue unresolved,High
+System error affecting orders,High
+Major bug in checkout system,High
+Delivery late but acceptable,Medium
+Product damaged slightly,Medium
+Service average not great,Medium
+App works but slow sometimes,Medium
+UI okay but can improve,Low
+Minor inconvenience in usage,Low
+Small bug but ignorable,Low
+Feature missing but not critical,Low
+App decent but not perfect,Low
+Everything fine overall,Low
+Just checking if my account is active. Keep it up.,No Issue
+"This app is so easy to use, thank you.",No Issue
+"Hello, the delivery was super fast, very happy.",No Issue
+Everything is working perfectly fine today. Keep it up.,No Issue
+"Hello, everything is working perfectly fine today.",No Issue
+Best service I have ever used. Thanks!,No Issue
+Where can I find the settings menu? Keep it up.,No Issue
+Just checking if my account is active.,No Issue
+"Hello, nothing to report, all good.",No Issue
+Best service I have ever used. Keep it up.,No Issue
+I absolutely love the new update! Thanks!,No Issue
+Is there a dark mode coming soon?,No Issue
+Just wanted to say the support team was fantastic. Keep it up.,No Issue
+Great job on the UI redesign.,No Issue
+"Hello, just wanted to say the support team was fantastic.",No Issue
+I absolutely love the new update! Keep it up.,No Issue
+"Hello, just checking if my account is active.",No Issue
+Just checking if my account is active.,No Issue
+Thanks for fixing the bug from last week! Keep it up.,No Issue
+I absolutely love the new update!,No Issue
+I absolutely love the new update! Thanks!,No Issue
+Where can I find the settings menu? Keep it up.,No Issue
+"Hello, best service i have ever used.",No Issue
+"I have no complaints, just leaving a 5 star review.",No Issue
+Best service I have ever used. Keep it up.,No Issue
+Just wanted to say the support team was fantastic. Thanks!,No Issue
+"Hello, is there a dark mode coming soon?",No Issue
+Is there a dark mode coming soon? Keep it up.,No Issue
+"Hello, just checking if my account is active.",No Issue
+"This app is so easy to use, thank you.",No Issue
+Great job on the UI redesign. Keep it up.,No Issue
+Everything is working perfectly fine today.,No Issue
+"Hello, can you add a feature to export to pdf?",No Issue
+Great job on the UI redesign. Keep it up.,No Issue
+"Hello, everything is working perfectly fine today.",No Issue
+Great job on the UI redesign. Thanks!,No Issue
+Thanks for fixing the bug from last week! Keep it up.,No Issue
+Just wanted to say the support team was fantastic.,No Issue
+"Hello, just checking if my account is active.",No Issue
+"The delivery was super fast, very happy. Keep it up.",No Issue
+Where can I find the settings menu? Thanks!,No Issue
+How do I change my profile picture?,No Issue
+"The delivery was super fast, very happy. Keep it up.",No Issue
+I absolutely love the new update!,No Issue
+"Hello, everything is working perfectly fine today.",No Issue
+Just wanted to say the support team was fantastic. Keep it up.,No Issue
+"Hello, everything is working perfectly fine today.",No Issue
+I absolutely love the new update!,No Issue
+"I have no complaints, just leaving a 5 star review. Keep it up.",No Issue
+Just wanted to say the support team was fantastic.,No Issue
+Thanks for fixing the bug from last week! Thanks!,No Issue
+Where can I find the settings menu? Keep it up.,No Issue
+"Hello, where can i find the settings menu?",No Issue
+"Nothing to report, all good.",No Issue
+"Nothing to report, all good. Keep it up.",No Issue
+Just wanted to say the support team was fantastic. Thanks!,No Issue
+"Hello, great job on the ui redesign.",No Issue
+"Nothing to report, all good. Keep it up.",No Issue
+"Hello, how do i change my profile picture?",No Issue
+"This app is so easy to use, thank you.",No Issue
+Just wanted to say the support team was fantastic. Keep it up.,No Issue
+"I have no complaints, just leaving a 5 star review.",No Issue
+"Hello, just checking if my account is active.",No Issue
+Everything is working perfectly fine today. Keep it up.,No Issue
+"Hello, how do i change my profile picture?",No Issue
+Where can I find the settings menu? Thanks!,No Issue
+How do I change my profile picture? Keep it up.,No Issue
+Where can I find the settings menu?,No Issue
+"Hello, nothing to report, all good.",No Issue
+Great job on the UI redesign. Keep it up.,No Issue
+Can you add a feature to export to PDF? Thanks!,No Issue
+Just wanted to say the support team was fantastic.,No Issue
+"This app is so easy to use, thank you. Keep it up.",No Issue
+Where can I find the settings menu?,No Issue
+"Hello, best service i have ever used.",No Issue
+Just checking if my account is active. Keep it up.,No Issue
+"Hello, the delivery was super fast, very happy.",No Issue
+Thanks for fixing the bug from last week!,No Issue
+"I have no complaints, just leaving a 5 star review. Keep it up.",No Issue
+Just checking if my account is active.,No Issue
+Just wanted to say the support team was fantastic. Thanks!,No Issue
+Can you add a feature to export to PDF? Keep it up.,No Issue
+"Hello, where can i find the settings menu?",No Issue
+Everything is working perfectly fine today.,No Issue
+Just wanted to say the support team was fantastic. Keep it up.,No Issue
+Just checking if my account is active. Thanks!,No Issue
+"Hello, can you add a feature to export to pdf?",No Issue
+Everything is working perfectly fine today. Keep it up.,No Issue
+"Hello, thanks for fixing the bug from last week!",No Issue
+Can you add a feature to export to PDF?,No Issue
+"Nothing to report, all good. Keep it up.",No Issue
+Can you add a feature to export to PDF?,No Issue
+"Hello, just checking if my account is active.",No Issue
+"The delivery was super fast, very happy. Keep it up.",No Issue
+"Hello, great job on the ui redesign.",No Issue
+Is there a dark mode coming soon? Thanks!,No Issue
+"I have no complaints, just leaving a 5 star review. Keep it up.",No Issue
+Can you add a feature to export to PDF?,No Issue
+"Hello, this app is so easy to use, thank you.",No Issue
+Just wanted to say the support team was fantastic. Keep it up.,No Issue
+"The delivery was super fast, very happy. Thanks!",No Issue
+Best service I have ever used.,No Issue
+Is there a dark mode coming soon? Keep it up.,No Issue
+Just wanted to say the support team was fantastic.,No Issue
+"Hello, is there a dark mode coming soon?",No Issue
+Just wanted to say the support team was fantastic. Keep it up.,No Issue
+"Hello, best service i have ever used.",No Issue
+Just wanted to say the support team was fantastic.,No Issue
+Is there a dark mode coming soon? Keep it up.,No Issue
+"The delivery was super fast, very happy.",No Issue
+"Nothing to report, all good. Thanks!",No Issue
+Great job on the UI redesign. Keep it up.,No Issue
+"Hello, this app is so easy to use, thank you.",No Issue
+"Nothing to report, all good.",No Issue
+Is there a dark mode coming soon? Keep it up.,No Issue
+Thanks for fixing the bug from last week! Thanks!,No Issue
+"Hello, thanks for fixing the bug from last week!",No Issue
+How do I change my profile picture? Keep it up.,No Issue
+"Hello, where can i find the settings menu?",No Issue
+Best service I have ever used.,No Issue
+Can you add a feature to export to PDF? Keep it up.,No Issue
+Where can I find the settings menu?,No Issue
+"Hello, where can i find the settings menu?",No Issue
+Is there a dark mode coming soon? Keep it up.,No Issue
+"Hello, great job on the ui redesign.",No Issue
+Is there a dark mode coming soon? Thanks!,No Issue
+Is there a dark mode coming soon? Keep it up.,No Issue
+Just wanted to say the support team was fantastic.,No Issue
+"Hello, i absolutely love the new update!",No Issue
+Is there a dark mode coming soon? Keep it up.,No Issue
+"This app is so easy to use, thank you. Thanks!",No Issue
+Is there a dark mode coming soon?,No Issue
+"Nothing to report, all good. Keep it up.",No Issue
+"The delivery was super fast, very happy.",No Issue
+"Hello, i have no complaints, just leaving a 5 star review.",No Issue
+"I have no complaints, just leaving a 5 star review. Keep it up.",No Issue
+"Hello, just wanted to say the support team was fantastic.",No Issue
+"This app is so easy to use, thank you.",No Issue
+Everything is working perfectly fine today. Keep it up.,No Issue
+Just checking if my account is active.,No Issue
+How do I change my profile picture? Thanks!,No Issue
+Can you add a feature to export to PDF? Keep it up.,No Issue
+"Hello, i have no complaints, just leaving a 5 star review.",No Issue
+"I have no complaints, just leaving a 5 star review.",No Issue
+Thanks for fixing the bug from last week! Keep it up.,No Issue
+How do I change my profile picture? Thanks!,No Issue
+"Hello, best service i have ever used.",No Issue
+Everything is working perfectly fine today. Keep it up.,No Issue
+"Hello, thanks for fixing the bug from last week!",No Issue
+Where can I find the settings menu?,No Issue
+ok,No Issue
+perfect man,No Issue
+decent 👍,No Issue
+nice 👍,No Issue
+no problem man,No Issue
+all good 👍,No Issue
+excellent,No Issue
+superb.,No Issue
+excellent!,No Issue
+good job,No Issue
+love it,No Issue
+very no problem!,No Issue
+very looks good :),No Issue
+thanks.,No Issue
+excellent man,No Issue
+thanks,No Issue
+looks good.,No Issue
+no problem,No Issue
+good product,No Issue
+love it,No Issue
+excellent,No Issue
+thanks :),No Issue
+not bad 👍,No Issue
+works fine.,No Issue
+thanks!,No Issue
+looks good,No Issue
+perfect,No Issue
+superb,No Issue
+decent,No Issue
+decent,No Issue
+not bad,No Issue
+excellent :),No Issue
+decent.,No Issue
+very nice,No Issue
+cool,No Issue
+very good job man,No Issue
+ok,No Issue
+very decent,No Issue
+very nice 👍,No Issue
+great 👍,No Issue
+great man,No Issue
+good job,No Issue
+very no problem,No Issue
+fine,No Issue
+ok,No Issue
+fine,No Issue
+awesome,No Issue
+works fine man,No Issue
+nice!,No Issue
+very awesome,No Issue
+ok 👍,No Issue
+looks good!,No Issue
+awesome,No Issue
+nice man,No Issue
+all good,No Issue
+works fine,No Issue
+great,No Issue
+good product :),No Issue
+ok,No Issue
+very thanks,No Issue
+looks good,No Issue
+good job,No Issue
+very superb,No Issue
+excellent.,No Issue
+decent man,No Issue
+looks good :),No Issue
+love it.,No Issue
+love it,No Issue
+all good,No Issue
+very not bad.,No Issue
+excellent!,No Issue
+perfect,No Issue
+decent!,No Issue
+nice man,No Issue
+thanks,No Issue
+love it,No Issue
+love it,No Issue
+very nice 👍,No Issue
+looks good 👍,No Issue
+good job :),No Issue
+no problem,No Issue
+all good,No Issue
+not bad,No Issue
+very good product,No Issue
+works fine,No Issue
+nice,No Issue
+superb,No Issue
+perfect.,No Issue
+love it 👍,No Issue
+perfect 👍,No Issue
+very no problem,No Issue
+decent 👍,No Issue
+very thanks,No Issue
+looks good,No Issue
+all good 👍,No Issue
+very nice 👍,No Issue
+perfect,No Issue
+all good,No Issue
+awesome!,No Issue
+decent,No Issue
